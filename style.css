@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+
+}
+.ntf{
+    color: blueviolet;
+    text-transform: uppercase;
+}
+.sign_in{
+background-color: white;
+color: rgb(180, 22, 88);
+border: 1px solid white;
+}
+ul li {
+    display: inline-block;
+    
+}
